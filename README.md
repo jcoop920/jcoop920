@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Jcoop!
 - 👀 I’m interested in anything computers.
 - 🌱 I’m currently learning Swift!
-- 💞️ I’m looking to collaborate on an iOS, macOS, or watchOS app.
+- 💞️ I’m looking to collaborate on an iOS app.
 - 😄 Pronouns: he/him
 
 <!---
