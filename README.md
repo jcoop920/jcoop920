@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Jcoop!
 - 👀 I’m interested in anything computers.
-- 🌱 I’m currently learning Swift!
+- 🌱 I’m currently learning Swift and HTML!
 - 💞️ I’m looking to collaborate on an iOS app.
 - 😄 Pronouns: he/him
 
